@@ -1,6 +1,6 @@
 
 <p>
-  <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"> Hey, I'm Álvaro! </h1>   
+  <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px"> Hey, I'm Álvaro! </h1>   
   <p> I'm passionate about technologies and love to learn new things! 
   
   <b> 🔭 I’m currently looking for new opportunities. </b> 
